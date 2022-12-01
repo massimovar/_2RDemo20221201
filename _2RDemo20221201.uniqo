@@ -31,5 +31,17 @@ Project:
    Uri: 'urn:QPlatform:WebUI'
    Module: QPlatform.WebUI
    Version: 5.0.0.7
+  10:
+   Uri: 'urn:QPlatform:Datalogger'
+   Module: QPlatform.Datalogger
+   Version: 13.0.0.7
+  11:
+   Uri: 'urn:QPlatform:Store'
+   Module: QPlatform.Store
+   Version: 2.1.25.301
+  12:
+   Uri: 'urn:QPlatform:SQLiteStore'
+   Module: QPlatform.SQLiteStore
+   Version: 2.1.15.302
  Nodes:
  - File: Nodes/_2RDemo20221201.yaml
