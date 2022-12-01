@@ -1,0 +1,4 @@
+Name: Buttons
+Type: FolderType
+Children:
+- File: templates/templates.yaml

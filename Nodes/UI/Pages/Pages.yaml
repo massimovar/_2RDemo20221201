@@ -1,0 +1,25 @@
+Name: Pages
+Type: FolderType
+Children:
+- File: Templates/Templates.yaml
+- Name: HomePage
+  Id: g=faa9c48a95e6d14839d8a9331c54dde9
+  Supertype: BasePage
+  ReferenceType: HasComponent
+  Children:
+  - Name: Label1
+    Type: Label
+- Name: Datalogger
+  Id: g=d30f12e7c266f3a4c911ce636fe30f75
+  Supertype: BasePage
+  ReferenceType: HasComponent
+  Children:
+  - Name: Label1
+    Type: Label
+- Name: Alarms
+  Id: g=64ca13d6e0ea42a33e8b87d521a0505c
+  Supertype: BasePage
+  ReferenceType: HasComponent
+  Children:
+  - Name: Label1
+    Type: Label

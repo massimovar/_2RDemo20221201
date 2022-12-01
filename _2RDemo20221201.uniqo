@@ -27,5 +27,9 @@ Project:
    Uri: 'urn:QPlatform:Retentivity'
    Module: QPlatform.Retentivity
    Version: 3.0.58.309
+  9:
+   Uri: 'urn:QPlatform:WebUI'
+   Module: QPlatform.WebUI
+   Version: 5.0.0.7
  Nodes:
  - File: Nodes/_2RDemo20221201.yaml
