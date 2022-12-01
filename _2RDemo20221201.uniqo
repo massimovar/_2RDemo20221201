@@ -1,0 +1,31 @@
+Project:
+ Name: _2RDemo20221201
+ ProjectNamespaceIndex: 7
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ CoreVersion: 10.0.0.134
+ Dependencies:
+  2:
+   Uri: 'urn:QPlatform:CoreBase'
+   Module: QPlatform.CoreBase
+   Version: 8.1.0.176
+  3:
+   Uri: 'urn:QPlatform:UI'
+   Module: QPlatform.UI
+   Version: 46.0.0.7
+  4:
+   Uri: 'urn:QPlatform:HMIProject'
+   Module: QPlatform.HMIProject
+   Version: 11.0.0.134
+  5:
+   Uri: 'urn:QPlatform:NativeUI'
+   Module: QPlatform.NativeUI
+   Version: 28.0.0.12
+  6:
+   Uri: 'urn:QPlatform:Retentivity'
+   Module: QPlatform.Retentivity
+   Version: 3.0.58.309
+ Nodes:
+ - File: Nodes/_2RDemo20221201.yaml
